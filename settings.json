@@ -1,0 +1,31 @@
+{
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.fontLigatures": true,
+  "json.schemas": [
+    {
+      "name": "vscode-expo-manifest",
+      "url": "file:///Users/alexeikaryavin/Library/Application%20Support/Code/User/globalStorage/bycedric.vscode-expo/manifest-44.0.0.json",
+      "fileMatch": ["app.json", "app.config.json"]
+    }
+  ],
+  "git.confirmSync": false,
+  "gitlens.sortBranchesBy": "name:desc",
+  "workbench.startupEditor": "none",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Hurmit Nerd Font",
+  "editor.accessibilitySupport": "off",
+  "terminal.integrated.env.linux": {},
+  "editor.fontSize": 13,
+  "workbench.productIconTheme": "bongocat",
+  "workbench.colorTheme": "Ayu Mirage Bordered",
+  "workbench.iconTheme": "catppuccin-macchiato",
+  "vscode-pets.theme": "winter",
+  "update.showReleaseNotes": false,
+  "editor.wordWrap": "on",
+  "security.workspace.trust.untrustedFiles": "open"
+}
