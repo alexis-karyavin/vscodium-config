@@ -1,0 +1,9 @@
+dbaeumer.vscode-eslint
+eamodio.gitlens
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+kilocode.kilo-code
+krish-r.vscode-toggle-terminal
+pixl-garden.bongocat
+tonybaloney.vscode-pets
+vue.volar
